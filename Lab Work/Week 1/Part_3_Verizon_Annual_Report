@@ -1,0 +1,31 @@
+Cybersecurity Threat Landscape (Part 3 - Verizon)
+In this part, you should primarily use the Verizon Data Breaches Investigation Report plus independent research to answer the below questions.
+
+What is the difference between an incident and a breach?
+An incident is a security event that compromises the integrity, confidentiality or availability of an information asset where a breach is an incident that results in the confirmed disclosure, not just potential exposure of data to an unauthorized party.
+
+
+What percentage of breaches were perpetrated by outside actors? What percentage were perpetrated by internal actors?
+69% or breaches were from outside actors with internal actors accounting for 34% of activity.
+
+
+What percentage of breaches were perpetrated by organized criminal groups?
+Organized criminal groups accounted for 39% of breaches.
+
+What percentage of breaches were financially motivated?
+71% of breaches were financially motivated. 
+
+Define the following:
+Denial of Service: Any attack intended to compromise the availability of networks and systems. This includes both network and application attacks designed to overwhelm systems, resulting in performance degradation or interruption of service.
+
+Command and Control: Known as C2 malware, Command and Control involves the installation and subsequent use of C2 malware.  
+
+Backdoor: A backdoor is any method used to get around normal security measures whether they are an authorized or an unauthorized user.
+
+Keylogger: A method to capture user input data, known as a form of a form-grabber or Spyware. 
+
+The time from an attacker’s first action to the initial compromise of an asset is typically measured in which one? Seconds, minutes, hours, days?
+Days is how this is typically measured. A “Zero Day Attack” implies that there are zero days between first action & initial compromise.
+
+When it comes to phishing, which industry has the highest click rates?
+The Education industry had the highest click rate when it comes to phishing. 
