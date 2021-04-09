@@ -1,0 +1,53 @@
+Step 1: Measure and Set Goals
+Answer the following questions:
+Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
+In this scenario, the potential security risk has the potential to be severe if an employee is using their personal phones to access sensitive work information. Some of the potential attacks include phishing, malware & personal identifiable information attacks. 
+Based on the above scenario, what is the preferred employee behavior?
+The company needs to establish policies regarding downloading email attachments from outside of the private network. No attachments will be allowed to be downloaded from external sources without permission & verification from management. A series of consequences for policy infractions can be clearly outlined within the company's governance framework. 
+What methods would you use to measure how often employees are currently not behaving according to the preferred behavior?
+
+
+To test the current behavior of the employees within the company, I recommend conducting a series of test phishing emails to see how many employees download attachments from unknown sources. Then follow up with those who had an infraction with additional training on these types of attacks along with real life damage they can do if opened. 
+What is the goal that you would like the organization to reach regarding this behavior?
+The goal of your organization should always be 0% open rate. However, given the fact that we are dealing with human behavior we should account for a 0-4.9% margin of error. Therefore, we should always aim to be below 5% open rate on all phishing email attempts.
+
+
+
+
+Step 2: Involve the Right People
+Now that you have a goal in mind, who needs to be involved?
+	Key people to involve in this process are as follows:
+CEO - In this scenario, the CEO will have final sign off on all project expenses & expectations. The CEO will be responsible for navigating the company away from any potential catastrophic events that could eliminate the companies assets.
+CFO - The CFO in this scenario will manage the budget for the project. His responsibility is to ensure the company doesn’t overspend for protection & will assess the risks involved with defending them. 
+COO - The COO will play the role of managing the actions of the overall operation. Assisting with being a liaison between departments & handling top level activity.
+CIO - The CIO will be in charge of protecting the proprietary information. The CIO will provide feedback on the project objectives & goals.
+CISO - The CISO will be hyper focused on protecting the data at risk. They will be the department in charge of this operation & it’s imperative that they communicate well as a team & report back to the other stakeholders included above. The CISO will want a 0% open rate.
+
+Step 3: Training Plan
+Training is part of any security culture framework plan. How will you train your employees on this security concern? In one page, indicate the following:
+
+SilverCorp “HERO” Training Plan 2021
+Overview: A company’s security culture doesn’t happen organically. It requires constant care & feeding. It requires an investment from everyone involved. From the CEO to the interns, everyone has a role to play & a hero’s cape to wear. That’s why at SilverCorp, we are introducing a new Quarterly Training Program in 2021 - “HERO” which will place a company wide focus on creating a superhero security culture! Our goal at the end of this program is to have an open rate of less than 5% of all attempted attacks company wide.
+
+
+Objectives: In this program, we will review the following:
+	-An overview of cybersecurity & the risks of cyberattacks
+	-How to combat cybersecurity attacks & protecting yourself 
+	-How to identify a phishing attack
+	- When to report an attempt or an attack
+	-How to practice
+Timeline: In quarter 1, we will discuss password best practices, our current password policy & review the most common types of password attacks. We will also discuss the importance of encryption & how that relates to both corporate & personal mobile devices. Along with password attacks, we will highlight how to detect a phishing attack. 
+Regular Phishing & Malware Attacks will be deployed to the entire company to view open rates & establish a quantifiable starting point to track against throughout the program duration. 
+In quarter 2, we will discuss the importance of encryption & how that relates to both corporate & personal mobile devices. How using encryption is helpful in reducing the cost of a data breach. How encryption is important across all devices, from mobile, to table, desktop and operating systems. 
+Regular Phishing & Malware Attacks will be deployed to the entire company to view open rates & to track against the defined starting point in quarter 1. Those who have repeatedly opened phishing or malware attack attempts will be scheduled for additional security training. In this additional training, employees will deep dive into phishing attacks, have a better understanding of how to check the URL, identify errors in email addresses, verify secure websites versus vulnerable sites & more. 
+In quarter 3, we will teach the importance of reporting attempts or attacks. Mistakes happen, but the most critical mistake is not reporting the potential error. Providing a safe culture to report errors allows the employee to avoid hiding a critical breach. 
+To educate the different departments, we will schedule a series of online education webinars reviewing the company's policies on how to report an attempted attack. 
+In quarter 4, we will measure the results of the overall program & provide additional training for those who are repeat offenders of the phishing attempts. 
+At this time, we will identify any changes to company policy based on the findings of the report. We will identify areas of strength & weakness as well as an action plan on how to make the necessary corrections to continue to improve our superhero security culture!
+Analysis: We will quantifiably measure this program's success based on the end result being an open rate of less than 5% of all attack attempts. 
+
+Bonus: Other Solutions
+
+Another potential solution would be a policy against the use of personal devices to conduct business. By making the use of personal devices against company policy, this will dramatically lower the risk. However, even when making this a company policy, enforcing the compliance will be a top focus. The advantage, lock down. The disadvantage, lock down. Employees might feel like they are too restricted or having to carry 2 phones will be an issue. 
+
+If restricting use of personal devices is not an option, I would suggest making every employee set up 2 factor authorization & require it upon any login attempt via personal devices. This would be a technical control & the benefit is that it provides an additional layer of security to ensure the end user is the employee & not a hacker. The downside, it makes the employee enter an additional code to log in. 
