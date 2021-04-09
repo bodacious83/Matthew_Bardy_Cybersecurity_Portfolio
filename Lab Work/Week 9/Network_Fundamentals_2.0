@@ -1,0 +1,67 @@
+Network Fundamentals 2.0
+
+Mission 1
+sysadmin@UbuntuDesktop:~$ nslookup 
+> set type=MX      
+> starwars.com
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+starwars.com	mail exchanger = 5 alt1.aspx.l.google.com.
+starwars.com	mail exchanger = 5 alt2.aspmx.l.google.com.
+starwars.com	mail exchanger = 1 aspmx.l.google.com.
+starwars.com	mail exchanger = 10 aspmx2.googlemail.com.
+starwars.com	mail exchanger = 10 aspmx3.googlemail.com.
+
+The Resistance isn’t receiving any emails because 
+
+starwars.com	mail exchanger = 1 asltx.l.google.com.
+	starwars.com	mail exchanger = 5 asltx.2.google.com.
+
+Mission 2
+name = 45-23-176-21.lightspeed.rcsntx.sbcglobal.net.
+
+The Force’s emails are going to spam because it’s not routing correctly.
+
+theforce.net	mail exchanger = 10 mailstore1.secureserver.net.
+theforce.net	mail exchanger = 0 smtp.secureserver.net.
+
+Mission 3
+sysadmin@UbuntuDesktop:~$ nslookup -type=cname www.theforce.net
+Server:	8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+www.theforce.net	canonical name = theforce.net.
+
+Authoritative answers can be found from:
+-The DNS CNAME is missing from the reference and needs to be added.
+-The correct DNS record
+	-www.theforce.com canonical name= theforce.net
+	-Resistance.theforce.net 
+Mission 4
+sysadmin@UbuntuDesktop:~$ nslookup -type=ns princessleia.site
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+princessleia.site	nameserver = ns25.domaincontrol.com.
+princessleia.site	nameserver = ns26.domaincontrol.com.
+
+Authoritative answers can be found from:
+
+Mission 5
+Batuu-D-C-E-F--J-I-L-Q-T-V-Jedha
+
+Mission 6
+
+Sender MAC address: Cisco-Li_e3:e4:01 (00:0f:66:e3:e4:01)
+Sender IP address: 172.16.0.1 (172.16.0.1)
+Target MAC address: IntelCor_55:98:ef (00:13:ce:55:98:ef)
+Target IP address: 172.16.0.101 (172.16.0.101)
+
+Mission 7
+
+Nslookup -type=txt princessleia.site 
+Then ran telnet towel.blinkenlights.nl 
